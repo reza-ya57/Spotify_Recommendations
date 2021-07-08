@@ -21,7 +21,8 @@ What is th goal?
 ### Coding Language:
 #### Python
 #### SQL
-
+### Resources
+#### Spotify API
 ### Data Storage Method:
 #### PostgreSQL
 ### Code Sharing and Task Management Tools:
@@ -33,7 +34,9 @@ What is th goal?
 #### Tableau
 #### hvplot
 
-
+## Project Time line
+### Start Date:
+### End Date:
 
 
 2- What is th goal?
