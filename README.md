@@ -12,38 +12,60 @@ With that being said, a problem that many users face is finding new songs and ar
 ## Objective
 Design a model to review the users demography and behaviors to make a proper sugesstion and prepare relevant offer based on the user's attitude.
 
-## Scope
-In this project we are working on spotify dataset and collect the user's attribute and song attribute to run the analysis and build a model based on clustering method.
-
-## Deliverable
-### Need to discuss in team?
-
 ## Tools and Technology which are used in this project
+
 ### Modeling:
 Our group will be using an unsupervised model and K-Means method to cluster and build the model.
+
 ### Coding Language:
 Python
 SQL
+
 ### Resources:
 Spotify API
 Kaggle Spotify Dataset
+
 ### Data Storage Method:
 PostgreSQL
+
 ### Code Sharing and Task Management Tools:
 Github
 Google Colab
+
 ### Team Communication Tools:
 Slack
 Discord
+
 ### Presentation Tools:
 Tableau
 hvplot
+
+### Coding Language:
+- Python
+- SQL
+
+### Resources
+- Spotify API
+
+### Data Storage Method:
+- PostgreSQL
+
+### Code Sharing and Task Management Tools:
+- Github
+- Google Colab
+
+### Team Communication Tools:
+- Slack
+- Discord
+
+### Presentation Tools:
+- Tableau
+- hvplot
 
 ## Project Time line
 Start Date: July 6th, 2021
 End Date:
 
 ## Questions to complete
-2- What is th goal?
-
-3- How would be manage the roadblocks?
+- What is th goal?
+- How would be manage the roadblocks?
