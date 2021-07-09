@@ -36,7 +36,7 @@ We are using unsupervised modeling and K-Mean method to clustering and build a m
 - SQL
 
 ### Resources
-#### Spotify API
+- Spotify API
 
 ### Data Storage Method:
 - PostgreSQL
