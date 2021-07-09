@@ -46,4 +46,9 @@ End Date:
 ## Questions to complete
 2- What is th goal?
 
+<<<<<<< HEAD
 3- How would be manage the roadblocks?
+=======
+3- How would be manage the roadblocks?
+
+>>>>>>> 8d7b9a621a65ce4f833c89a365fd0ea8a02c1813
