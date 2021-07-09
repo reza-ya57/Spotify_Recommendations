@@ -27,23 +27,31 @@ As a team, we are working with a spotify dataset to collect and analyse the attr
 Need to discuss in team?
 
 ## Tools and Technology which are used in this project
+
 ### Modeling:
-#### We are using unsupervised modeling and K-Mean method to clustering and build a model.
+We are using unsupervised modeling and K-Mean method to clustering and build a model.
+
 ### Coding Language:
-#### Python
-#### SQL
+- Python
+- SQL
+
 ### Resources
 #### Spotify API
+
 ### Data Storage Method:
-#### PostgreSQL
+- PostgreSQL
+
 ### Code Sharing and Task Management Tools:
-#### Github
-#### Google Colab
+- Github
+- Google Colab
+
 ### Team Communication Tools:
-#### Slack
+- Slack
+- Discord
+
 ### Presentation Tools:
-#### Tableau
-#### hvplot
+- Tableau
+- hvplot
 
 ## Project Time line
 ### Start Date:
