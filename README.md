@@ -1,4 +1,9 @@
 # Spotify_Recommendations
+
+## Link to Dataset
+https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+
+
 # Project Charter
 ## Project Description
 ### Spotify is a Swedish audio streaming and media services provider founded in 2006 by Daniel Ek. It is the world's largest music streaming service providers, with over 356 million monthly active users, including 158 million paying subscribers, as of March 2021. In order to this high popularity we decided to build a model to analyse user's favorite song and suggest best relevant song based on the user's interest. We believe by using this model we offer new song to current user and expand user's play list eventually it can increase the number of active users in spotify platform.
