@@ -1,4 +1,4 @@
-# Spotify: A newly based Model that finds the music you are looking for.
+# Spotify: A newly based model that finds the music you are looking for
 
 ## Link to Dataset
 https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
