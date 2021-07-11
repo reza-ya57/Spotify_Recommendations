@@ -6,8 +6,9 @@ https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 # Project Charter
 ## Project Description
-Founded in 2006 by Daniel Ek, Spotify is a Swedish audio streaming and media services provider. It is the world's largest music streaming service providers, with over 356 million monthly active users, including 158 million paying subscribers, as of March 2021. 
-With that being said, a problem that many users face is finding new songs and artists to listen to. Many users find themselves listening to the same artists and genre of music as finding new tracks to listen to can be a tedious task. Knowing this, our groups aims to solve this problem by creating a music recommendation model using machine learning. Our model will analyse the user's favorite song and suggest best relevant song based on the their interest. We believe by using this model we offer new song to current user and expand user's play list eventually it can increase the number of active users in spotify platform.
+Spotify, founded in 2006 by Daniel Ek, is a Swedish audio streaming and media services provider. It is the world's largest music streaming service providers, with over 356 million monthly active users, including 158 million paying subscribers, as of March 2021. 
+
+Users are beginning to find that looking for new music/ artists to listen to are becoming a bit short-handed. With the help of our group, the goal is to create a music recommendation model. This model will analyse the user's favorite type of music and suggest the best relevance based upon their music choices. With this model, we believe it will offer new music/ artists to add into users playlists and this will eventually expand the number of new/ old active users within the spotify platform 
 
 ## Objective
 To design a model to analyse users demographic behaviours and properly make suggestion to help prepare users based off of their choices of interests in music.
