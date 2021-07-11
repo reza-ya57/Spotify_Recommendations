@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/77694480/125197998-0bd7d800-e22e-11eb-9177-bcf337b9d146.png)
+
 # Spotify: A newly based model that finds the music you are looking for
 
 ## Link to Dataset
