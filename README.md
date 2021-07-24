@@ -43,6 +43,6 @@ Our group will be using an unsupervised model and K-Means method to cluster and 
 - Discord
 
 ### Presentation Tools:
-- Tableau
-- hvplot
+- Canva
+- Google Slides
 
