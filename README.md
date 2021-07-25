@@ -11,7 +11,6 @@ https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 # Project Charter
 ## Project Description
 
-Spotify, founded in 2006 by Daniel Ek, is a Swedish audio streaming and media services provider. It is the world's largest music streaming service providers, with over 356 million monthly active users, including 158 million paying subscribers, as of March 2021. 
 
 The app can be a useful tool for discovering new music, however it often recommends music similar to the music you're already listening too. It can be difficult and tedious to find new music generally, and especially music that's more disimilar and discover new artists from different genres.
 
@@ -34,6 +33,7 @@ Our group will be using an unsupervised model and K-Means method to cluster and 
 ### Data Storage Method:
 - PostgreSQL
 
+
 ### Code Sharing and Task Management Tools:
 - Github
 - Google Colab
@@ -43,6 +43,6 @@ Our group will be using an unsupervised model and K-Means method to cluster and 
 - Discord
 
 ### Presentation Tools:
-- Tableau
-- hvplot
+- Canva
+- Google Slides
 
