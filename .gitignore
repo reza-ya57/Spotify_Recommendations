@@ -1,2 +1,7 @@
 # ignore any dataset that is temporarily in the directory until the sqlite db is up and running
 *.csv
+
+# test
+
+*.db
+

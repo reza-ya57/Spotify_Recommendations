@@ -60,6 +60,6 @@ In the theory behind recommendation systems there are 2 main types of recommende
 - Discord
 
 ### Presentation Tools:
-- Tableau
-- hvplot
+- Canva
+- Google Slides
 
